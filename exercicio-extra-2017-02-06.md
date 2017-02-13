@@ -19,9 +19,9 @@ como o multitarefa aprimorado e uma interface de realidade virtual.
  [link do video](https://youtu.be/Pq-K-mPYvFA)
  
  
- #Microsoft Office:
+#Microsoft Office:
  
- *Windows 
+*Windows 
 Novos recursos na versão do Windows incluem a capacidade de criar, abrir, editar e salvar arquivos na nuvem diretamente 
 da área de trabalho, uma nova ferramenta de pesquisa para comandos disponíveis no Word , PowerPoint , 
 Excel e Outlook chamado "Tell Me" Enviar como "no Word e no PowerPoint e co-autoria em tempo real com usuários 
