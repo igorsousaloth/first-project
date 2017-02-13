@@ -21,7 +21,7 @@ como o multitarefa aprimorado e uma interface de realidade virtual.
  
 #Microsoft Office:
  
-* _Windows_:
+* *Windows*:
 
 Novos recursos na versão do Windows incluem a capacidade de criar, abrir, editar e salvar arquivos na nuvem diretamente 
 da área de trabalho, uma nova ferramenta de pesquisa para comandos disponíveis no Word , PowerPoint , 
@@ -36,7 +36,7 @@ O Microsoft Office 2016 não pode coexistir com aplicativos do Microsoft Office 
 do Microsoft Office, como 2003, 2007 e 2010. A Microsoft oferece livremente substituir essas versões mais antigas de 2013 
 por uma versão atualizada. 
 
-* _Mac_:
+* *Mac*:
 
 Novos recursos na versão para Mac incluem uma interface de usuário atualizada que usa fitas , suporte total para Retina Display 
 e novos recursos de compartilhamento para documentos do Office.
